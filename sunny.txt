@@ -6,4 +6,3 @@ git is super fast
 git light weight
 light
 remote repo is slow
-remote
