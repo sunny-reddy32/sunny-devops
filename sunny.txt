@@ -5,7 +5,7 @@ git is very easy
 git is super fast
 git light weight
 light
-remote repo is slow
+loss
 light
 weight
 height
