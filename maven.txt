@@ -1,0 +1,64 @@
+  1  yum install maven -y
+    2  sudo -i
+    3  update-alternatives --config java
+    4  sudo -i
+    5  sudo -i
+    6  ls
+    7  pwd
+    8  ls -ltr
+    9  . code
+   10  sudo yum install maven -y
+   11  ls -lrd
+   12  git --version
+   13  git clone https://github.com/Ekryd/sortpom.git
+   14  ls
+   15  cd sortpom
+   16  ls
+   17  mvn package
+   18  ls
+   19  cd maven
+   20  cd maven-plugin/
+   21  ls
+   22  cd target
+   23  ls
+   24  cd ../../
+   25  ls
+   26  cd maven-plugin/
+   27  ls
+   28  cd target
+   29  ls
+   30  sudo wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.11/bin/apache-tomcat-10.1.11.tar.gz
+   31  ls
+   32  rm -rf apache-tomcat-10.1.11.tar.gz
+   33  cd ~
+   34  sudo wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.11/bin/apache-tomcat-10.1.11.tar.gz
+   35  ls
+   36  sudo -i
+   37  tar xvzf https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.11/bin/apache-tomcat-10.1.11.tar.gz
+   38  tar xvzf apache-tomcat-10.1.11.tar.gz
+   39  ls
+   40  rm -rf  apache-tomcat-10.1.11.tar.gz
+   41  ls
+   42  mv apache-tomcat-10.1.11 tomcat
+   43  ls
+   44  cd tomcat
+   45  ls
+   46  cd bin
+   47  ls
+   48  sh start.sh
+   49  sh startup.sh
+   50  cd tomcat
+   51  ls
+   52  cd ..
+   53  ls
+   54  cd config
+   55  cd conf
+   56  ls
+   57  vi server.xml
+   58  ls
+   59  vi tomcat-users.xml
+   60  sudo -i
+   61  ls
+   62  histroy
+   63  history
+[ec2-user@ip-172-31-85-116 conf]$
