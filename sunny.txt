@@ -10,5 +10,4 @@ light
 weight
 height
 mahesh babu
-ssmbs
-krishnaveni
+ssmb
